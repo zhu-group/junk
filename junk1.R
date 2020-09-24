@@ -17,3 +17,8 @@ x <- seq(1,10,1)
 which(x==1 && x==2)
 
 x==1
+
+# Add a new line
+plot(X,Y)
+
+
